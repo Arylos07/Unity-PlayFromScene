@@ -17,3 +17,6 @@ I will also properly update this repository in the future to actually have subst
 
 # Do you have any license requirements?
 Just MIT license. As far as I'm concerned, you can freely use and update this, with or without attribution. Go wild.
+
+# Can I contribute?
+Yes, especially once I set up a contributing file. It's pretty simple so any integrations or additional features will be helpful. For now, just fork and open a pull request when done.
