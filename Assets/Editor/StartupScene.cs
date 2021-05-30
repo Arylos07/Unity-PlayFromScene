@@ -1,4 +1,5 @@
 #define ENABLE_STARTUPSCENE
+// ^ comment this out if you want to disable the behaviour.
 
 using UnityEngine;
 using UnityEditor;
